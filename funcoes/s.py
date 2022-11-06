@@ -1,2 +1,2 @@
 def pa():
-    return 'M@fra1506'
+    return '*******'
